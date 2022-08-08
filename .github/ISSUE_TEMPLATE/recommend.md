@@ -1,8 +1,8 @@
 ---
-name: 推荐文章
+name: 文章推荐
 about: 优秀英文文章推荐（翻译）
-title: "[推荐优秀文章]"
-labels: 待批准
+title: 推荐优秀文章
+labels: 文章推荐
 assignees: devgogo
 
 ---
