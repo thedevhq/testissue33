@@ -2,7 +2,7 @@
 name: 申请译者
 about: 申请表
 title: 申请成为译者
-labels: 待批准
+labels: 待审核
 assignees: devgogo
 
 ---
